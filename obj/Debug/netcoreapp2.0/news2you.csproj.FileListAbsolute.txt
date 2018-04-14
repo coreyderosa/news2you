@@ -1,0 +1,10 @@
+D:\Documents\Repos\news2you\bin\Debug\netcoreapp2.0\news2you.deps.json
+D:\Documents\Repos\news2you\bin\Debug\netcoreapp2.0\news2you.runtimeconfig.json
+D:\Documents\Repos\news2you\bin\Debug\netcoreapp2.0\news2you.runtimeconfig.dev.json
+D:\Documents\Repos\news2you\bin\Debug\netcoreapp2.0\news2you.dll
+D:\Documents\Repos\news2you\bin\Debug\netcoreapp2.0\news2you.pdb
+D:\Documents\Repos\news2you\obj\Debug\netcoreapp2.0\news2you.csproj.CoreCompileInputs.cache
+D:\Documents\Repos\news2you\obj\Debug\netcoreapp2.0\news2you.AssemblyInfoInputs.cache
+D:\Documents\Repos\news2you\obj\Debug\netcoreapp2.0\news2you.AssemblyInfo.cs
+D:\Documents\Repos\news2you\obj\Debug\netcoreapp2.0\news2you.dll
+D:\Documents\Repos\news2you\obj\Debug\netcoreapp2.0\news2you.pdb
